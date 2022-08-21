@@ -7,3 +7,5 @@
     - Hotkeys (press ctr + H to see all)
 
     - New GUI
+    
+    ![alt text](https://i.imgur.com/IxFZZ3e.png)
