@@ -8,4 +8,4 @@
 
     - New GUI
     
-    ![alt text](https://i.imgur.com/IxFZZ3e.png)
+![alt text](https://i.imgur.com/IxFZZ3e.png)
